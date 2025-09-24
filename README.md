@@ -1,5 +1,5 @@
 # code_along-
-# Sachin_MS_S82_Attendance_Management
+
 ## Session 2: Core Domain Modelling
 - Defined `Student` class with `studentId`, `name`, `setDetails()`, and `displayDetails()` method.
 - Defined `Course` class with `courseId`, `courseName`, `setDetails()`, and `displayDetails()` method.
